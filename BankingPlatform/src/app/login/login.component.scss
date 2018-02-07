@@ -1,0 +1,51 @@
+.head {
+    margin-top: 5rem;
+    margin-left: 25rem;
+}
+.header{
+    width: 50%;
+    background: #ffffff;
+    border: 1px solid #999ea2;
+}
+.form-group {
+    margin-bottom: -3rem;
+    margin-top: 3rem;
+    margin-left: 6rem;
+}
+.text{
+    color: #fd7e14;
+}
+.alert-danger {
+    color: #721c24;
+    margin-top: -25px;
+    background: none;
+    border: none;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-left: 10rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+.user{
+    width: 7%;
+    position: relative;
+    top: -33px;
+    padding-left: 5px;
+}
+.form-control {
+    padding: 0.5rem 2rem;
+    border: 1px solid #999ea2;
+}
+
+.pass {
+    padding: 0.5rem 2.5rem;
+}
+.modal-content {
+    width: 50%;
+    height: 20vh;
+    margin: 180px;
+    padding: 30px;
+}
